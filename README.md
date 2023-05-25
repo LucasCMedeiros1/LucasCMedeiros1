@@ -16,5 +16,5 @@
 
 Apaixonado por tecnologia!
 
-![Snake animation](https://github.com/LucasCMedeiros1/LucasCMedeiros1/blob/output/github-contribution-grid-snake.svg)
+
 
