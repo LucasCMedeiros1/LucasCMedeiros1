@@ -6,8 +6,7 @@
 
 #
 
-Me chamo Paulo Queiroz, tenho 24 anos e sou natural do Rio de Janeiro. Atualmente curso Análise e Desenvolvimento de Sistemas na FIAP. Sou apaixonado por tecnologia, curioso sobre Hardware e compartilho meu conhecimento através do
-meu canal no YouTube "[PauloDev](https://www.youtube.com/@paulopontodev)".
+Me chamo Lucas Carvalho Medeiros, tenho 27 anos. Atualmente estou cursando Desenvolvimento de Sistemas na ETEC Tupã Prof. Massuyuki Kawano.
  
 #
 
@@ -73,14 +72,7 @@ meu canal no YouTube "[PauloDev](https://www.youtube.com/@paulopontodev)".
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 
-<img
-    align="left"
-    alt="Vercel"
-    title="Vercel"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg"
-/>
+
 <br/>
 <br/>
 
