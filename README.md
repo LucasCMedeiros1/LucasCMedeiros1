@@ -15,6 +15,7 @@ Me chamo Lucas Carvalho Medeiros, tenho 27 anos. Atualmente estou cursando Desen
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=black)](https://www.instagram.com/lucass_carvalho099/)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/lucas-carvalho-medeiros-1688b5289/)
+![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)(https://www.twitch.tv/meluca_)
 
 
 <h3 align="left">My Stack ~</h3>
