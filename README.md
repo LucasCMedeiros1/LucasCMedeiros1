@@ -95,6 +95,9 @@ Me chamo Lucas Carvalho Medeiros, tenho 27 anos. Atualmente estou cursando Desen
 </p>
 
 
+</p>
+
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LucasCMedeiros1/LucasCMedeiros1/output/snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LucasCMedeiros1/LucasCMedeiros1/output/snake.svg">
