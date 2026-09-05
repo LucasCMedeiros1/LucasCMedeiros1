@@ -77,21 +77,17 @@ Me chamo Lucas Carvalho Medeiros, tenho 27 anos. Atualmente estou cursando Desen
 
 <h3 align="left">GitHub Stats</h3>
 
-<p>
+<p align="center">
   <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats-two-omega-43.vercel.app/api?username=LucasCMedeiros1&show_icons=true&locale=pt-br&commits_year=2026&hide=contribs&cache_seconds=21600&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&ring_color=ffffff&custom_title=My%20GitHub%20Statistics"
+    height="180em"
+    src="https://github-readme-stats-two-omega-43.vercel.app/api?username=LucasCMedeiros1&show_icons=true&locale=pt-br&commits_year=2026&hide=contribs&cache_seconds=21600&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&ring_color=ffffff&custom_title=Minhas%20Estat%C3%ADsticas"
   />
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats-two-omega-43.vercel.app/api/top-langs/?username=LucasCMedeiros1&layout=compact&custom_title=Stack&langs_count=8&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&ring_color=ffffff" 
+  <img 
+    height="180em"
+    src="https://github-readme-stats-two-omega-43.vercel.app/api/top-langs/?username=LucasCMedeiros1&layout=compact&custom_title=Minha%20Stack&langs_count=8&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&ring_color=ffffff"
   />
+</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LucasCMedeiros1/LucasCMedeiros1/output/snake-dark.svg">
