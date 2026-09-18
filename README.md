@@ -7,69 +7,69 @@
 #
 
 Me chamo Lucas Carvalho Medeiros, tenho 27 anos. Atualmente estou cursando Desenvolvimento de Sistemas na ETEC Tupã Prof. Massuyuki Kawano.
-
+ 
 #
+
 
 <h3 align="left">Sociais!</h3>
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge\&logo=instagram\&logoColor=black)](https://www.instagram.com/lucass_carvalho099/)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge\&logo=linkedin\&logoColor=FF00F6\&color\:FFF)](https://www.linkedin.com/in/lucas-carvalho-medeiros-1688b5289/)
-[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge\&logo=Twitch\&logoColor=white)](https://www.twitch.tv/meluca_)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=black)](https://www.instagram.com/lucass_carvalho099/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/lucas-carvalho-medeiros-1688b5289/)
+[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)](https://www.twitch.tv/meluca_)
+
 
 <h3 align="left">My Stack ~</h3>
 
 <img 
- align="left" 
- alt="HTML"
- title="HTML" 
- width="30px" 
- style="padding-right: 10px;" 
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
-
 <img 
- align="left" 
- alt="CSS" 
- title="CSS"
- width="30px" 
- style="padding-right: 10px;" 
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+    align="left" 
+    alt="CSS" 
+    title="CSS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
-
 <img 
- align="left" 
- alt="JavaScript" 
- title="JavaScript"
- width="30px" 
- style="padding-right: 10px;" 
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
 
 <img
- align="left"
- alt="Github"
- title="GitHub"
- width="30px"
- style="padding-right: 10px;"
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"
+    align="left"
+    alt="Github"
+    title="GitHub"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"
 />
 
 <img 
- align="left" 
- alt="Git" 
- title="Git"
- width="30px" 
- style="padding-right: 10px;" 
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
 
 <img 
- align="left" 
- alt="Python" 
- title="Python"
- width="30px" 
- style="padding-right: 10px;" 
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 
 <br/>
@@ -84,24 +84,18 @@ Me chamo Lucas Carvalho Medeiros, tenho 27 anos. Atualmente estou cursando Desen
     height="200" 
     style="padding-right: 10px;"
     src="https://github-readme-stats-two-omega-43.vercel.app/api?username=LucasCMedeiros1&show_icons=true&locale=pt-br&commits_year=2026&hide=contribs&cache_seconds=21600&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&ring_color=ffffff&custom_title=Minhas%20Estat%C3%ADsticas"
+    alt="Minhas Estatísticas do GitHub"
   />
 
 <img
- align="left" 
- alt="Minha Stack" 
- height="200"
+align="left" 
+      alt="GitHub Stats" 
+      height="200"
  src="https://github-readme-stats-two-omega-43.vercel.app/api/top-langs/?username=LucasCMedeiros1&layout=compact&custom_title=Minha%20Stack&langs_count=8&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff"
+ alt="Minha Stack"
 />
 
 </p>
 
-<br/>
-<br/>
 
-#
-
-<h3 align="left">🐍 Jogo da Cobrinha</h3>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/LucasCMedeiros1/LucasCMedeiros1/output/github-contribution-grid-snake.svg" alt="Jogo da Cobrinha"/>
 </p>
